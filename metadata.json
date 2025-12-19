@@ -1,0 +1,7 @@
+{
+  "name": "Samay Fitness Coach",
+  "description": "A high-energy, concise AI fitness coaching website featuring Samay.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
